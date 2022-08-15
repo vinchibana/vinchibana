@@ -1,6 +1,6 @@
 ## こんにちは 👋 　&emsp;[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vialin1128) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@vialin1128) 
 
-Web developer** 
+Web developer
 
 🗃️ Working on multiple frontend projects using JavaScript / Vue.js / React !
 <hr/>
