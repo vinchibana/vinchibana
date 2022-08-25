@@ -2,7 +2,7 @@
 
 Web developer
 
-🗃️ Working on multiple frontend projects using JavaScript / Vue.js / React !
+Working on multiple frontend projects using JavaScript / Vue.js / React !
 <hr/>
 
 
