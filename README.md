@@ -1,6 +1,6 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=vinchibana&data=followers,repositories,stars,commits)](https://github.com/vinchibana)
 
-Web developer
+A Progressive Web developer
 
 Working on multiple frontend projects using JavaScript / Vue.js / React !
 <hr/>
