@@ -19,5 +19,4 @@ Working on multiple frontend projects using JavaScript / Vue.js / React !
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
 
 ![](https://github-readme-stats.vercel.app/api?username=vinchibana&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinchibana)](https://github.com/vinchibana/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinchibana)](https://github.com/vinchibana/github-readme-stats&layout=compact)
