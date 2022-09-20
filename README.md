@@ -2,7 +2,6 @@
 
 A Progressive Web developer
 
-Working on multiple frontend projects using JavaScript / Vue.js / React !
 <hr/>
 
 
