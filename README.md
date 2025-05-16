@@ -1,5 +1,3 @@
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=vinchibana&data=followers,repositories,stars,commits)](https://github.com/vinchibana)
-
 A Progressive Web developer
 
 <hr/>
